@@ -11,7 +11,7 @@ A simple merging puzzle game built using Python. Developed during the first year
 - Simple GUI and scoring system
 
 ## 📸 Screenshots
-![Main](game-preview/1.png)
+<img src="game-preview/1.png" alt="Preview" width="400"/>
 
 ## 🚀 How to Run
 ```bash
